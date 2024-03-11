@@ -3,7 +3,7 @@
   <img src="readme_images/duck-hunt.png" width="300">
   <h3 align="center">Duck Hunt</h3>
   <p align="center">
-    <a href="https://adi52.github.io/duck-hunt/build/index.html"><strong>View a Demo »</strong></a>
+    <a href="https://facusb.github.io/duck-hunt/build/index.html"><strong>View a Demo »</strong></a>
   </p>
 </p>
 
